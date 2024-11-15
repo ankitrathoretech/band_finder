@@ -41,3 +41,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # To make HTTP requests to external APIs (like MusicBrainz)
 gem 'httparty'
+
+# To handle cors
+gem 'rack-cors'
