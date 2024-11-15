@@ -18,6 +18,14 @@ A Rails API to help users search for music bands that were founded in a given lo
 - Puma (Web server)
 - Rack-CORS (For handling CORS issues)
 
+## React Frontend
+
+The frontend application has been deployed and is accessible at the following link:
+
+- [Band Finder Frontend](https://band-finder-frontend.onrender.com/)
+
+This React app communicates with the backend API to allow users to search for bands based on their location.
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -172,5 +180,3 @@ If I had more time, I would consider the following improvements:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This `README.md` now includes an "Improvements" section to highlight potential future enhancements for the backend app. Let me know if you need further refinements or additions!
